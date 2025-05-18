@@ -1,16 +1,26 @@
-## Hi there 👋
+### 👋 Hi there, I'm Harmeet Singh!
+I'm a passionate **software developer** with experience in building web & blockchain applications, APIs, and scalable systems.
 
-<!--
-**singhharmeet-io/singhharmeet-io** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔧 **Tech Stack:**  
+`React` `Angular` `Svelte` `VUe` `Node.js/.ts` `Nest` `GoLang` `Rust` `Ethereum/EVM Chains` `Solana` `Tron` `Binance` `Web3/Web3Auth` `Ethers.js` `Smart Contracts/Solidity` `Bash` `Docker/Docker Compose` `NFT` `Blockchain Wallets` `Kubernetes` `AWS Lambda` `AWS Secret Manager` `AWS EC2` `AWS EKS` `AWS Lens` `zookeeper` `RabbitMq` `Redis` `BullMQ` `Kafka` `RDBMS` `Postgresql` `mongoDB` `GRPC/HTTP2.0` `REST Api's` `Hardhat` `Biconomy` `Paybis and Banxa Integration`
 
-Here are some ideas to get you started:
+🌱 I’m currently learning: `AWS`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Projects I'm working on:
+- 💻 Blockchain Wallets
+- Custom CRM for Small Businesses 
+- Dev Tools to streamline workflows
+
+💼 **What I do**  
+- 🖥️ Build modern web & blockchain apps and APIs  
+- 🧩 Solve complex backend challenges  
+- 📈 Optimize performance and user experience  
+- 💬 Collaborate with clients and teams
+
+📫 Reach me at: contact@harmeet.io  
+🌐 Website: https://harmeet.io
+
+📈 GitHub Stats:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=singhharmeet-io&show_icons=true&theme=radical)
+
+---
